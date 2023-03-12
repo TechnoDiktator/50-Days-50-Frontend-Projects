@@ -13,5 +13,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 3 - Blurry To Visible -> An image becomes visible from a blurry start while a loader goes from 0 to 100%
 
-
+4 - Box Scroll Into ViewPort -> COntenet boxes automatically slide from both sides into the view port as the user scrolls down
 
