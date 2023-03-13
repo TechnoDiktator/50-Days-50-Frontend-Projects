@@ -20,3 +20,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 7 -KeyCode - Shows the key and the keyCode you pressed
 
 8 - FAQBoxes -> Simple FAQ boxes that get triggered at the press of a button
+
+9 - Random Picker > A simple game that lets you enter choices seperated by a comma and then randomly selects a choice among them
