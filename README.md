@@ -18,3 +18,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 6 - Joke Generator -> In this project we are fetching jokes from a joke api   'https://icanhazdadjoke.com/'  and putting them inside a container .On the press of a button you can read new jokes!!!!11
 
 7 -KeyCode - Shows the key and the keyCode you pressed
+
+8 - FAQBoxes -> Simple FAQ boxes that get triggered at the press of a button
