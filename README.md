@@ -26,3 +26,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ### 12 - Water Jug Game - A simple game inwhich you fill a water jug with the filled glasses available to you and the jug shows you the volume that is remaining ....just like a progress bar
 
+## 13 - MovieApi Based Landing Page -> A very interesting project in which data about movies is fetched using   https://developers.themoviedb.org    API .......It also conatins a search bar that fetches all moveis on the basis of the keyword entered
+ 
