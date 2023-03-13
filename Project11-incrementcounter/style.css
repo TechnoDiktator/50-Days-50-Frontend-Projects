@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background-color: #04363c;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+
+}
+
+
+
+
+.counter-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 30px 100px;
+
+}
+
+
+
+.counter{
+    font-size: 60px;
+    margin-top: 10px;
+}
+
+
+@media(max-width:580px){
+
+
+    body{
+        flex-direction: column;
+    }
+
+}
+
+
+
+
+
+
+
+
