@@ -16,3 +16,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 5 - Landing Page -> A simple landing page with transition
 
 6 - Joke Generator -> In this project we are fetching jokes from a joke api   'https://icanhazdadjoke.com/'  and putting them inside a container .On the press of a button you can read new jokes!!!!11
+
+7 -KeyCode - Shows the key and the keyCode you pressed
