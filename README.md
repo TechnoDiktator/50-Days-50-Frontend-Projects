@@ -10,11 +10,11 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ### 3 - Blurry To Visible -> An image becomes visible from a blurry start while a loader goes from 0 to 100%
 
-### 4 - Box Scroll Into ViewPort -> COntenet boxes automatically slide from both sides into the view port as the user scrolls down
+## 4 - Box Scroll Into ViewPort -> COntenet boxes automatically slide from both sides into the view port as the user scrolls down
 
 ### 5 - Landing Page -> A simple landing page with transition
 
-### 6 - Joke Generator -> In this project we are fetching jokes from a joke api   'https://icanhazdadjoke.com/'  and putting them inside a container .On the press of a button you can read new jokes!!!!11
+## 6 - Joke Generator -> In this project we are fetching jokes from a joke api   'https://icanhazdadjoke.com/'  and putting them inside a container .On the press of a button you can read new jokes!!!!11
 
 ### 7 -KeyCode - Shows the key and the keyCode you pressed
 
@@ -24,7 +24,7 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ### 11 - Social Media Counter -> Made the commonly used social media widget counter that you must have seen in a lot of applications
 
-### 12 - Water Jug Game - A simple game inwhich you fill a water jug with the filled glasses available to you and the jug shows you the volume that is remaining ....just like a progress bar
+## 12 - Water Jug Game - A simple game inwhich you fill a water jug with the filled glasses available to you and the jug shows you the volume that is remaining ....just like a progress bar
 
 ## 13 - MovieApi Based Landing Page -> A very interesting project in which data about movies is fetched using   https://developers.themoviedb.org    API .......It also conatins a search bar that fetches all moveis on the basis of the keyword entered
  
