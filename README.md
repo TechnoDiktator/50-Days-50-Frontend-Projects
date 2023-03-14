@@ -30,6 +30,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
  
 ## Project14 - Sliding Carausel - A carausel that shows various images ....the images flow outside the caraousel into the background to produce a cool effect
 
-
+# Project15 - A clock widget  -  I made a cool clock widget which you would commonly see in a smartphone
 
 
