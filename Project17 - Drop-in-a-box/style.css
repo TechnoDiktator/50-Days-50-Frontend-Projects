@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+
+
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.empty{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border: solid 3px darkcyan;
+    background: white;
+}
+
+.fill {
+    background-image: url('https://source.unsplash.com/random/150x150');
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+}
+
+
+.hold{
+    border: solid 5px #ccc;
+}
+
+
+.hovered {
+    background-color: #333;
+    border-color :white;
+    border-style: dashed;
+    
+}
+
+
+@media (max-width:800px){
+    body{
+        flex-direction: column;
+
+    }
+}
+
