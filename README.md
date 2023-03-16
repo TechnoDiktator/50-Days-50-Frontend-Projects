@@ -46,3 +46,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ### Project22 - A landing page with verticle slider effect
 
+## Project23 - COmmonly used notification boxes that one sees on websites these days....these boxes appear at the corner of the viewport ....they could be used in  a project to show notifications
+
