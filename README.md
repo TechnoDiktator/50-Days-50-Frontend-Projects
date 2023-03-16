@@ -39,3 +39,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 # Project18  - I made a really cool drawing board tool .....used canvas element and canvas API of javascript for the first time .Change color , increade/decrease brushize , clear board fuctionalities
 
 ### Project19 - A simple dynamic loader
+
+## Project20 - A Card Animation that you commonly see in shopping websites ....the card content gets loaded after 2 seconds and in that time ...all the text/image areas run a cool animation to produce a loading like effect
+
