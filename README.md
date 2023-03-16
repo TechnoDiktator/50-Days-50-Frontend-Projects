@@ -10,7 +10,7 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ### Project3 - Blurry To Visible -> An image becomes visible from a blurry start while a loader goes from 0 to 100%
 
-## Project4 - Box Scroll Into ViewPort -> COntenet boxes automatically slide from both sides into the view port as the user scrolls down
+## Project4 - Box Scroll Into ViewPort -> Content boxes automatically slide from both sides into the view port as the user scrolls down
 
 ### Project5 - Landing Page -> A simple landing page with transition
 
@@ -43,4 +43,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 ## Project20 - A Card Animation that you commonly see in shopping websites ....the card content gets loaded after 2 seconds and in that time ...all the text/image areas run a cool animation to produce a loading like effect
 
 ### Project21 - A landing page with stick navbar
+
+### Project22 - A landing page with verticle slider effect
 
