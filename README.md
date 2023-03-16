@@ -34,3 +34,7 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ## Project16 - A Ripple Container - this is a ripple effect that we all have seent in many social media apps ....a ripple gets triggered when we click anywhere inside the container
 
+# Project17 - Drag and Drop  -  A drag and drop game in which user can drag an image from a box and drop it in any other boxes......use of various drag Events like dragStart , dragEnd , DragOver ,dragEnter , drop
+
+
+
