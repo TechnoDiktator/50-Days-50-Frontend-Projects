@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+
+
+body{
+    background-color: black;
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+
+}
+
+
+button{
+    background-color: purple;
+    color: white;
+    border: 1px purple solid;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 20px 30px;
+    overflow: hidden;
+    height: 300px;
+    width: 300px;
+    margin: 10px 0 ;
+    position: relative;
+}
+
+
+button:focus{
+    outline: none;
+}
+
+button .circle{
+    position: absolute;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    transform: translate(-50% , -50%) scale(0);
+    animation: scale 0.5s ease-out;
+}
+
+@keyframes scale{
+    to{
+        transform: translate(-50% , -50%) scale(3);
+        opacity: 0;
+    }
+}
+
