@@ -42,3 +42,5 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ## Project20 - A Card Animation that you commonly see in shopping websites ....the card content gets loaded after 2 seconds and in that time ...all the text/image areas run a cool animation to produce a loading like effect
 
+### Project21 - A landing page with stick navbar
+
