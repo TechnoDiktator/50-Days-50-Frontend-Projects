@@ -36,6 +36,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ## Project17 - Drag and Drop  -  A drag and drop game in which user can drag an image from a box and drop it in any other boxes......use of various drag Events like dragStart , dragEnd , DragOver ,dragEnter , drop
 
-# Project18  - I made a really cool drawing board tool .....used canvas element and canvas API of javascript foor the first time .Change color , increade/decrease bruchsize , clear board fuctionalities
+# Project18  - I made a really cool drawing board tool .....used canvas element and canvas API of javascript for the first time .Change color , increade/decrease brushize , clear board fuctionalities
 
 
