@@ -48,3 +48,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ## Project23 - COmmonly used notification boxes that one sees on websites these days....these boxes appear at the corner of the viewport ....they could be used in  a project to show notifications
 
+# Project24 - A really cool project. A component that uses Axios to fetch githob profile data from gitHub   API    https://api.github.com/users/  .....and then populates it inside a card
+
+
