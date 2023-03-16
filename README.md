@@ -20,7 +20,7 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ### Project8 - FAQBoxes -> Simple FAQ boxes that get triggered at the press of a button
 
-### Project9 - Random Picker > A simple game that lets you enter choices seperated by a comma and then randomly selects a choice among them
+## Project9 - Random Picker > A simple game that lets you enter choices seperated by a comma and then randomly selects a choice among them
 
 ### Project11 - Social Media Counter -> Made the commonly used social media widget counter that you must have seen in a lot of applications
 
