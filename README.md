@@ -51,3 +51,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 # Project24 - A really cool project. A component that uses Axios to fetch githob profile data from gitHub   API    https://api.github.com/users/  .....and then populates it inside a card
 
 ## Project25 - Simple instagram like / heart feature
+
+## Project26 - Text Animation commenly seen on websites
+
