@@ -54,5 +54,6 @@ I Made 50 small frontend projects in 50 days using HTML , CSS . JavaScript
 
 ## Project26 - Text Animation commenly seen on websites
 
-## Project28 - An infinite insect killing game ....catch the insects and squash them
+## Project27 - An infinite insect killing game ....catch the insects and squash them
 
+## Project28 - Pokedex - https://pokeapi.co/api/v2/pokemon/  uses this API and fetches pokemon data .to make pokemon cards 
