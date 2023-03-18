@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Text Effect</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/brands.min.css" integrity="sha512-L+sMmtHht2t5phORf0xXFdTC0rSlML1XcraLTrABli/0MMMylsJi3XA23ReVQkZ7jLkOEIMicWGItyK4CAt2Xw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+
+        <div class="screen">
+            <h1>Catch the Insect</h1>
+            <button class="btn" id="start-btn">Play Game</button>
+        </div>
+
+
+        <div class="screen">
+            <h1>What is your 'favourite' insect</h1>
+            <ul class="insects-list">
+                <li>
+                    <button class="choose-insect-btn">
+                        <p>Fly</p>
+                        <img src="image/fly.png" alt="">
+                    </button>
+                </li>
+
+                <li>
+                    <button class="choose-insect-btn">
+                        <p>Dragonfly</p>
+                        <img src="image/dfly.png" alt="">
+                    </button>
+                </li>
+
+                <li>
+                    <button class="choose-insect-btn">
+                        <p>Bug</p>
+                        <img src="image/fly3.jpeg" alt="">
+                    </button>
+                </li>
+                
+                <li>
+                    <button class="choose-insect-btn">
+                        <p>Bug</p>
+                        <img src="image/bee.jpg" alt="">
+                    </button>
+                </li>
+            </ul>
+        </div>
+
+
+        <div class="screen game-container" id="game-container">
+            <h3 id="time" class="time"></h3>
+            <h3 id="score" class="score">Score: 0</h3>
+            <h5 id="message" class="message">
+                Are you annoyed yet ? <br>
+                This is an infinite game !!! 
+            </h5>
+            <div class="insect">
+                
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
